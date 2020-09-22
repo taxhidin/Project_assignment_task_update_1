@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Validation Screen</string>
+    <string name="English">English</string>
+
+    <string name="Croatian">Croatian</string>
+    <string name="db_drop">DROP TABLE IF EXISTS</string>
+    <string name="name_goes_here">name</string>
+
+
+</resources>
